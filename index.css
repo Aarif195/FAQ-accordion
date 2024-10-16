@@ -7,10 +7,11 @@
 
 body {
   padding: 3rem 3rem;
-  background: url('/assets/images/background-pattern-mobile.svg');
+  background: url('assets/images/background-pattern-mobile.svg');
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Work Sans", sans-serif;
+  /* height: 100vh; */
 }
 
 main {
